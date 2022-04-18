@@ -1,4 +1,4 @@
-# BOOTCAMP DIGITAL INNOVATION ONE - Recriando a interface do Instagram
+# BOOTCAMP DIGITAL INNOVATION ONE - Recriando a interface do Instagram.
 
 ---
 
